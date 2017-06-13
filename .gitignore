@@ -1,0 +1,10 @@
+
+/.idea/*
+
+/Apps/MpaiApi/Config/*
+!/Apps/MpaiApi/Config/Config-example
+
+*.orig
+db-change.md
+
+update.zip
