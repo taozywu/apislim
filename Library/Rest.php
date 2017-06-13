@@ -3,7 +3,7 @@
 /**
  * Rest.
  *
- * @author taozywu <tao.wu@zerotech.com>
+ * @author taozywu <taozy.wu@qq.com>
  * @date 2016/10/20
  */
 class Rest

@@ -1,9 +1,8 @@
 <?php
 /**
- * Created by PhpStorm.
- * @Author: whoSafe
- * CreateTime：15-10-22 下午2:05
- * Description：
+ * Tool
+ * @author taozywu <taozy.wu@qq.com>
+ * @date 2016/10/20
  */
 
 namespace Common;

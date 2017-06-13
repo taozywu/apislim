@@ -2,8 +2,8 @@
 /**
  * Apps
  *
- * author yanshanbo shaobo.yan@zerotech.com
- * date 2016/11/01
+ * @author taozywu <taozy.wu@qq.com>
+ * @date 2016/11/01
  */
 
 namespace MpaiApi\Controller;

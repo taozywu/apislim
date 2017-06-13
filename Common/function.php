@@ -2,7 +2,7 @@
 /**
  * 全局函数.
  *
- * @author taozywu <tao.wu@zerotech.com>
+ * @author taozywu <taozy.wu@qq.com>
  * @date 2016/10/20
  */
 

@@ -2,7 +2,7 @@
 /**
  * 基础类{迁移美拍接口的基类、后面会在考虑token的处理，暂时继续使用闫神的这种处理}.
  *
- * @author yanshaobo shaobo.yan@zerotech.com
+ * @author taozywu <taozy.wu@qq.com>
  * @date 2016/10/20
  */
 namespace MpaiApi\Controller;

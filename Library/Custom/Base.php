@@ -1,6 +1,9 @@
 <?php
 /**
  * Class Base.
+ *
+ * @author taozywu <taozy.wu@qq.com>
+ * @date 2016/10/20
  */
 namespace Custom;
 
