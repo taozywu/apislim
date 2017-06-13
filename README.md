@@ -4,7 +4,7 @@ this is api's framwrok based on Slim !
 # 目录结构
 
 ```
-   YourWeb
+   YourApi
       Apps                  -- 应用目录
          YourModule         -- 模块目录
                Common       -- 模块公共函数
